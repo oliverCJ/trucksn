@@ -29,7 +29,7 @@ Truck Sim Navigator 是一款面向 **Euro Truck Simulator 2 (ETS2)** 和 **Amer
 
 ## 软件截图
 
-![主地图界面](./docs/images/screenshots/main.png)
+![主地图界面](./docs/images/screenshots/main.PNG)
 ![路线规划界面](./docs/images/screenshots/route.png)
 
 ## 常见问题
