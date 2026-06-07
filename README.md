@@ -5,7 +5,7 @@ Truck Sim Navigator 是一款面向 **Euro Truck Simulator 2 (ETS2)** 和 **Amer
 它可以在你游戏时提供实时地图定位、路线规划和导航信息展示。
 
 - 官网：<https://www.trucksn.top/>
-- 当前版本：`v1.0.4`
+- 当前版本：`v1.0.5`
 
 ## 支持游戏版本
 - ETS2：最高支持 1.59（大版本号，向下兼容，官方已经发布正式版，已测试）。
